@@ -1,0 +1,37 @@
+/* 编辑大模型 - 淡蓝色主题变量 */
+:root {
+  /* 主色调 - 淡蓝色系 */
+  --color-primary: #5eb3e8;
+  --color-primary-light: #87c9f0;
+  --color-primary-lighter: #b3ddf5;
+  --color-primary-dark: #3a9fd4;
+  --color-primary-darker: #2a7fb8;
+  
+  /* 背景色 */
+  --color-bg-base: #e8f4fc;
+  --color-bg-light: #f0f8ff;
+  --color-bg-card: #ffffff;
+  --color-bg-card-hover: #f5fbff;
+  
+  /* 文字色 */
+  --color-text-primary: #2c3e50;
+  --color-text-secondary: #5a6c7d;
+  --color-text-muted: #8c9aab;
+  
+  /* 圆角 - 更圆滑的组件 */
+  --radius-sm: 12px;
+  --radius-md: 16px;
+  --radius-lg: 24px;
+  --radius-xl: 32px;
+  --radius-full: 9999px;
+  
+  /* 阴影 */
+  --shadow-sm: 0 2px 8px rgba(94, 179, 232, 0.08);
+  --shadow-md: 0 4px 16px rgba(94, 179, 232, 0.12);
+  --shadow-lg: 0 8px 32px rgba(94, 179, 232, 0.16);
+  
+  /* 过渡 */
+  --transition-fast: 0.2s ease;
+  --transition-normal: 0.3s ease;
+  --transition-slow: 0.5s ease;
+}
